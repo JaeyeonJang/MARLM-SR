@@ -17,7 +17,6 @@ Set the model and environmental settings in **Logistics.py**, and then run this 
 Set the model and environmental settings in **Hierarchical_predator_prey.py**, and then run this Python file.
 
 ## Code structure
-### Factory production planning
 In **multiagent/scenarios**: the basic components of each environment are defined.
 
 **multiagent/core_{environment name}.py**: defines agents and environment.
