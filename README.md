@@ -19,4 +19,15 @@ Set the model and environmental settings in **Hierarchical_predator_prey.py**, a
 ## Code structure
 ### Factory production planning
 In **multiagent/scenarios**: the basic components of each environment are defined.
-In **multiagent/core_{environment name}.py**
+
+**multiagent/core_{environment name}.py**: defines agents and environment.
+
+**multiagent/env_{environment name}.py**: provides environments for the main algorithm MARLM-SR based on ray/rllib framework.
+
+**multiagent/scenario_{environment name}.py**: provides basic functions for environments.
+
+In **rllib_mod**: trainer is defined based on proximal policy optimization algorithm.
+
+In **utils**: logger is defined to record learning curve based on reward.
+
+
