@@ -3,6 +3,7 @@ This is code page for paper "Learning Multiple Coordinated Agents under Directed
 For confidentiality reasons, we offer only the following three artificial environments in our repository.
 
 <div align="center">
+
 ![Factory](https://github.com/n2kdnk1123/MARLM-SR/assets/103877745/e79f4cf9-3523-4b59-804d-432bdb3a09fd)
 
 ![logistics](https://github.com/n2kdnk1123/MARLM-SR/assets/103877745/98ab541e-a22b-44d4-a2f6-c8ecf9a4591b)
