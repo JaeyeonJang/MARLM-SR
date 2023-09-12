@@ -4,7 +4,7 @@ For confidentiality reasons, we offer only the following three artificial enviro
 
 <div align="center">
 
-<img src = "https://github.com/n2kdnk1123/MARLM-SR/assets/103877745/e79f4cf9-3523-4b59-804d-432bdb3a09fd" width="30%" height="30%">
+<img src = "https://github.com/n2kdnk1123/MARLM-SR/assets/103877745/e79f4cf9-3523-4b59-804d-432bdb3a09fd" width="10%" height="10%">
 
 **Factory production planning**
 
