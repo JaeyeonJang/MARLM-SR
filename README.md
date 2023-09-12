@@ -6,9 +6,9 @@ For confidentiality reasons, we offer only the following three artificial enviro
 
 ![Factory](https://github.com/n2kdnk1123/MARLM-SR/assets/103877745/e79f4cf9-3523-4b59-804d-432bdb3a09fd)
 
-</div>
-
 **Factory production planning**
+
+</div>
 
 <div align="center">
 
@@ -25,6 +25,8 @@ For confidentiality reasons, we offer only the following three artificial enviro
 **Hierarchical predator-prey**
 
 </div>
+
+
 
 The code is based on the [ray/rllib framework](https://docs.ray.io/en/latest/rllib/index.html) with the support of the Python/TensorFlow framework.
 
