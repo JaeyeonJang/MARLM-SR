@@ -1,5 +1,9 @@
 # MARLM-SR
 This is code page for paper "Learning Multiple Coordinated Agents under Directed Acyclic Graph Constraints" submitted to ICLR 2024.
+
+The code is based on the [ray/rllib framework](https://docs.ray.io/en/latest/rllib/index.html) with the support of the Python/TensorFlow framework.
+
+## Environments
 For confidentiality reasons, we offer only the following three artificial environments in our repository.
 
 <div align="center">
@@ -8,29 +12,16 @@ For confidentiality reasons, we offer only the following three artificial enviro
 
 **Factory production planning**
 
-</div>
-
-<div align="center">
-
-![logistics](https://github.com/n2kdnk1123/MARLM-SR/assets/103877745/98ab541e-a22b-44d4-a2f6-c8ecf9a4591b)
+<img src = "https://github.com/n2kdnk1123/MARLM-SR/assets/103877745/98ab541e-a22b-44d4-a2f6-c8ecf9a4591b" width="50%" height="50%">
 
 **Logistics**
 
-</div>
-
-<div align="center">
-
-![HPP](https://github.com/n2kdnk1123/MARLM-SR/assets/103877745/11f2210e-525e-4b96-9364-4d2bbf8ab537)
+<img src = "https://github.com/n2kdnk1123/MARLM-SR/assets/103877745/11f2210e-525e-4b96-9364-4d2bbf8ab537" width="50%" height="50%">
 
 **Hierarchical predator-prey**
 
 </div>
 
-
-
-The code is based on the [ray/rllib framework](https://docs.ray.io/en/latest/rllib/index.html) with the support of the Python/TensorFlow framework.
-
-## Environments
 You can find the details of the three implemented environments in the Appendix of the submitted paper.
 
 ### Factory production planning
