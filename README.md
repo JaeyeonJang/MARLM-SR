@@ -1,5 +1,5 @@
 # MARLM-SR
-This is code page for paper "Learning Multiple Coordinated Agents under Directed Acyclic Graph Constraints" submitted to IEEE TKDE.
+This is code page for paper "Learning Multiple Coordinated Agents under Directed Acyclic Graph Constraints" submitted to IEEE TNNLS.
 
 The code is based on the [ray/rllib framework](https://docs.ray.io/en/latest/rllib/index.html) with the support of the Python/TensorFlow framework.
 
